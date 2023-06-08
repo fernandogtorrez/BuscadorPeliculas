@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Shazam",
+    "rating": 4,
+    "tags": ["acción", "nueva", "fantasia"]
+  },
+  {
+    "title": "Titanic",
+    "rating": 6,
+    "tags": ["romance", "drama"]
+  },
+  {
+    "title": "Bumblebee",
+    "rating": 4,
+    "tags": ["ficcion", "accion"]
+  },
+  {
+    "title": "Creed",
+    "rating": 6,
+    "tags": ["drama", "deportes"]
+  },
+  {
+    "title": "It",
+    "rating": 7,
+    "tags": ["terror", "suspenso"]
+  },
+  {
+    "title": "Mario Bros",
+    "rating": 8,
+    "tags": ["aventura", "fantasia", "nueva"]
+  }
+]
